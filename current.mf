@@ -358,6 +358,7 @@ If a version is sourced from a URL rather than a paste, the URL is read-through 
 WRITE PATH. Paste is the write path — no automated write exists, and no in-chat page has landed one. Write in blocks short enough to survive copy, each ending on a checkable line.
 
 VERIFY LANDED. Fetch the raw file and confirm version and hash before the next job. Never brief the next version on an unverified baseline.
+
 THE REGISTER IS A STORE FILE (register.md). Quote finding numbers only from it, never from memory or a chat.
 
 FILE EXTENSION. Store files may carry .md or .mf. Try both. A 404 on one extension is not a missing file. The header inside the file is the identity.
