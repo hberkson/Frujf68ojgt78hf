@@ -1,5 +1,5 @@
 VERSION: 1.4
-HASH: fruj-1.4-a
+HASH: fruj-1.4-b
 CRAFT — 1.4 — PART A of D (§0–§2)
 DELIBERATE SPLIT for paste size, not a truncation. Parts B, C and D follow as separate pastes. Nothing starts until all four parts are present and whole. If a part is missing or cut, ask for it.
 PAIRED WITH: PROCESS 1.4. The pair is Craft + Process at matching version. Neither half runs without the other present.
