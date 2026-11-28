@@ -31,7 +31,7 @@ Two references, three at most.
 One job each.
 State what each must NOT give.
 Never let a second source carry a face.
-A reference cannot lighten anything — colour is lifted in the editor; this is the 7.7 tone rule, the same rule.
+A reference cannot lighten anything — colour is lifted in the editor; the tone rule is A3.
 Full compositions are montage; one defining composition only.
 
 1C. CRAFT CONVENTIONS
@@ -307,7 +307,7 @@ A1 Orientation: The vulva is upright. Hood and clitoris at the top of the frame,
 
 A2 Spread and degradation: Failure order is fixed and monotonic — seam opens top-down; keyhole at the top of the seam; one lip thins to a pale ribbon; lips drop outward and down like moth wings; interior corrugates edge to edge; an invented second hole below the canal. It never recovers inside a clip — once a stage is reached the clip is failing, not recovering. NO RELEASE: fingers hold to the end; release is designed out because the return never happens.
 
-A3 Tone and reference trade: Tone is an absolute plus a relationship. Absolute — interior must be pale; wording never lightens a reference; a bright frame is mandatory (the 7.7 tone rule, same rule). Relationship — every added reference buys one property and costs another, so the trade is logged: what was bought, what was paid. A third bright reference bought tone and cost labia length. Never add a reference without naming both sides.
+A3 Tone and reference trade: Tone is the brightest element stated as an absolute plus a relationship: the interior must be the palest lit surface and the labia the darker contrast either side. "Pale rose" alone under-lights. Wording cannot lighten a reference — a bright frame is mandatory and attached, not described. If the interior reads dark, the reference is dark, not the wording. Relationship — every added reference buys one property and costs another, so the trade is logged: what was bought, what was paid. A third bright reference bought tone and cost labia length. Never add a reference without naming both sides.
 
 A4 Edit-vs-grab: edit models redraw anatomy, they do not part it — never use an edit pass for a vulva end frame; grab from a run. Grabs from a good run beat stills.
 
@@ -380,7 +380,7 @@ BALANCE CHECK: a failed job refunds. If the balance does not move, the job did n
 
 11. VERSION LOG
 
-  1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A. F-18 and F-22 close. No other craft change.
+  1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A; the tone rule written at A3 and cited from 1B rather than restated; 1B confirmed per-shot. F-18 and F-22 close. No other craft change.
 
   1.3 — #5 vulva slot added to 1A at two scales, 5b standing primary and 5a close-up supplement, with the framing, weight-period, grooming and incomplete-set rules; folds in the uncommitted 1.2; F-04, F-05, F-06 close. No other craft change.
   1.2 — #5 vulva slot added to 1A. Never committed; carried whole into 1.3. [RECONSTRUCTED — baseline was never written to the store; wording set at 1.3, not verbatim.]
