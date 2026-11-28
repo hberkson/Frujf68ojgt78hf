@@ -35,7 +35,7 @@ F-21 — ADVISORY — OPEN. Lines too long to read on a phone; held for the next
 F-22 — DEFECT — CLOSED (1.4-b). §0A. A raw fetch served a stale cached copy three times, once across a cache-buster, so a blank line that existed read as missing and was twice reported absent. The blob page confirmed it with line numbers. Rule: content checks on raw, structure checks on the blob page. The blob is a complete replacement for the structure check, not a workaround, and raw still serves content.
 F-23 — DEFECT — CLOSED (1.4-b). 1B, A3. Cross-reference to §7.7, a section that never existed, cited from both 1B and A3. Number retired; the tone text sits verbatim at A3 and 1B points at it.
 F-24 — DEFECT — CLOSED (1.4-b). 1B. 1B's reference count contradicted the five mandatory slots in 1A. Ruled per-shot and settled; 1A and the four-label rule unchanged.
-F-25 — DEFECT — OPEN. 7.3/7.4 joint. Second occurrence of the F-19 class: a blank line lost at the joint on paste. Cites F-19; the source fix is F-19's.
+F-25 — DEFECT — OPEN. 7.3/7.4 joint. The blank-line count at the joint does not survive the paste: lost in one instance, gained in another. One class, both directions. Cites F-19; the source fix is F-19's.
 F-26 — DEFECT — OPEN. 7.3/7.4 joint. NOT an occurrence of the F-19 class — a different defect at the same seam: the separator line holds two spaces rather than being empty, and the file ends on two trailing spaces with no final newline. Cites F-19 and F-25 for location only.
 F-27 — DEFECT — CLOSED (1.4-b). A3. A3 stated tone as an absolute only, which under-lights a reference, and omitted the relationship clause. Rewritten at 1.4-b.
 
