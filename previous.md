@@ -292,7 +292,7 @@ FAILS: milky or bright-white texture, cum arriving early, mouth full before the 
 
 9. FAILURE TRIAGE
 
-Work down the list. Stop at th
+Work down the list. Stop at the first fix that holds.
 
   1. Strip beats. Fewer actions per clip.
   2. Garbled or clipped speech. Lengthen the spoken beat to the 6.1 floor before stripping the line; strip the line only if the beat can't grow.
