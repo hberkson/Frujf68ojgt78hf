@@ -1,5 +1,5 @@
 VERSION: 1.4
-HASH: fruj-1.4-b
+HASH: fruj-1.4-c
 CRAFT — 1.4 — PART A of D (§0–§2)
 DELIBERATE SPLIT for paste size, not a truncation. Parts B, C and D follow as separate pastes. Nothing starts until all four parts are present and whole. If a part is missing or cut, ask for it.
 PAIRED WITH: PROCESS 1.4. The pair is Craft + Process at matching version. Neither half runs without the other present.
@@ -21,7 +21,7 @@ Images and text never share a message.
 Uploads of five to ten.
 The library is authoritative; chat copies are not.
 Code blocks short, each with a checkable end line.
-Content checks on raw; structure checks on the blob page. Confirm the current file's extension by reading it — never assume.
+Content checks on raw; structure checks on the blob page; whitespace checks on the compare patch. Base64 and rendered markdown both fail on whitespace; the compare patch is the only instrument that shows it. Confirm the current file's extension by reading it — never assume.
 
 APPENDICES — topic-specific, lettered A, B, C then AA, BB, CC. One topic per appendix, never shared; new material on the same topic joins that appendix. Sub-categories number within: A1, A2, A3. The chief assigns letters and sub-numbers; production never picks one. A new topic gets a new appendix. Sections keep numbers, appendices keep letters, never crossed.
 
@@ -380,7 +380,7 @@ BALANCE CHECK: a failed job refunds. If the balance does not move, the job did n
 
 11. VERSION LOG
 
-  1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A; the tone rule written at A3 and cited from 1B rather than restated; 1B confirmed per-shot. F-18 and F-22 close. No other craft change.
+ 1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A; the tone rule written at A3 and cited from 1B rather than restated; 1B confirmed per-shot. F-18 and F-22 close. 1.4-c adds the whitespace leg at 1.0 and 0A. No other craft change.
 
   1.3 — #5 vulva slot added to 1A at two scales, 5b standing primary and 5a close-up supplement, with the framing, weight-period, grooming and incomplete-set rules; folds in the uncommitted 1.2; F-04, F-05, F-06 close. No other craft change.
   1.2 — #5 vulva slot added to 1A. Never committed; carried whole into 1.3. [RECONSTRUCTED — baseline was never written to the store; wording set at 1.3, not verbatim.]
@@ -424,7 +424,7 @@ If a version is sourced from a URL rather than a paste, the URL is read-through 
 
 WRITE PATH. Paste is the write path — no automated write exists, and no in-chat page has landed one. Write in blocks short enough to survive copy, each ending on a checkable line.
 
-VERIFY LANDED. Fetch the raw file and confirm version and hash before the next job. Never brief the next version on an unverified baseline. Where the raw fetch fails, the contents API serves the same file and the blob page confirms structure; both count as landed.
+VERIFY LANDED. Fetch the raw file and confirm version and hash before the next job. Never brief the next version on an unverified baseline. Where the raw fetch fails, the contents API serves the same file and the blob page confirms structure; both count as landed. Whitespace is checked on the compare patch, never on the raw text, the base64 decode or the rendered page — all three drop or add it.
 
 THE REGISTER IS A STORE FILE (register.md). Quote finding numbers only from it, never from memory or a chat.
 
@@ -466,8 +466,8 @@ Known failure classes to watch for on every read:
 
 4. VERSION LOG
 
-  1.4 — no Process change of its own. 0A VERIFY LANDED widens to name the contents API and the blob page as landing evidence; 0A FILE EXTENSION records that a UI rename exists; 0 pre-flight reads Appendices A and B with the money shot config. F-18 and F-22 close. Pairs with Craft 1.4.
-  1.3 — 0A gains the write-path and verify-landed rules. Closes F-04, F-05, F-06. 0 pre-flight requires all five slots and a stated grooming line. No other change.
+ 1.4 — no Process change of its own. 0A VERIFY LANDED widens to name the contents API and the blob page as landing evidence; 0A FILE EXTENSION records that a UI rename exists; 0 pre-flight reads Appendices A and B with the money shot config. F-18 and F-22 close. 1.4-c adds the whitespace leg to 0A VERIFY LANDED. Pairs with Craft 1.4.
+ 1.3 — 0A gains the write-path and verify-landed rules. Closes F-04, F-05, F-06. 0 pre-flight requires all five slots and a stated grooming line. No other change.
   1.2 — Process half of the #5 addition; no Process change of its own. Never committed, carried into 1.3.
   1.1 — first Process cut. Carries pre-flight, the pin rule, the rebuild list, the rebuild protocol and the defect register. Pairs with Craft 1.1.
   
