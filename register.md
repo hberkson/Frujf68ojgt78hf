@@ -5,12 +5,12 @@ Numeric order, never renumbered, never skipped. Sort on the STATUS field.
 STATUS INDEX
   DEFECT: F-09 F-10 F-19 F-20 F-25 F-26
   ADVISORY: F-21
-
  PROPOSAL: F-11 F-12
   CLOSED: F-01 F-02 F-03 F-04 F-05 F-06 F-14 F-18 F-22 F-23 F-24 F-27
   DEAD: F-07 F-08 F-13 F-15 F-16 F-17
 Dead numbers keep their slot and are never reused.
 RECONSTRUCTED entries may not be quoted verbatim until re-confirmed.
+
 F-01 — DEFECT — CLOSED (content). previous.md empty; no outgoing version held.
 F-02 — DEFECT — CLOSED (1.1 repair). current.md truncated at two thirds of Craft, §2–§5A absent.
 F-03 — DEFECT — CLOSED (1.1 repair). Craft §11 tail truncated in the same write. Inferred from the 1.1 log.
