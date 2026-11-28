@@ -380,7 +380,7 @@ BALANCE CHECK: a failed job refunds. If the balance does not move, the job did n
 
 11. VERSION LOG
 
- 1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A; the tone rule written at A3 and cited from 1B rather than restated; 1B confirmed per-shot. F-18 and F-22 close. 1.4-c adds the whitespace leg at 1.0 and 0A. No other craft change.
+  1.4 — 1.0 fixed rules added before Rule Zero; 1B reference discipline added; camera-as-law, orientation and hand rule added as craft conventions (1C); Appendix A (vulva) and Appendix B (fluid) added after the zone library; 5b widened to standing or kneeling, knees not seat, with the 5a-plus-grab substitute; sourcing reality added to 1A; the tone rule written at A3 and cited from 1B rather than restated; 1B confirmed per-shot. F-18 and F-22 close. 1.4-c adds the whitespace leg at 1.0 and 0A. No other craft change.
 
   1.3 — #5 vulva slot added to 1A at two scales, 5b standing primary and 5a close-up supplement, with the framing, weight-period, grooming and incomplete-set rules; folds in the uncommitted 1.2; F-04, F-05, F-06 close. No other craft change.
   1.2 — #5 vulva slot added to 1A. Never committed; carried whole into 1.3. [RECONSTRUCTED — baseline was never written to the store; wording set at 1.3, not verbatim.]
@@ -466,8 +466,8 @@ Known failure classes to watch for on every read:
 
 4. VERSION LOG
 
- 1.4 — no Process change of its own. 0A VERIFY LANDED widens to name the contents API and the blob page as landing evidence; 0A FILE EXTENSION records that a UI rename exists; 0 pre-flight reads Appendices A and B with the money shot config. F-18 and F-22 close. 1.4-c adds the whitespace leg to 0A VERIFY LANDED. Pairs with Craft 1.4.
- 1.3 — 0A gains the write-path and verify-landed rules. Closes F-04, F-05, F-06. 0 pre-flight requires all five slots and a stated grooming line. No other change.
+  1.4 — no Process change of its own. 0A VERIFY LANDED widens to name the contents API and the blob page as landing evidence; 0A FILE EXTENSION records that a UI rename exists; 0 pre-flight reads Appendices A and B with the money shot config. F-18 and F-22 close. 1.4-c adds the whitespace leg to 0A VERIFY LANDED. Pairs with Craft 1.4.
+  1.3 — 0A gains the write-path and verify-landed rules. Closes F-04, F-05, F-06. 0 pre-flight requires all five slots and a stated grooming line. No other change.
   1.2 — Process half of the #5 addition; no Process change of its own. Never committed, carried into 1.3.
   1.1 — first Process cut. Carries pre-flight, the pin rule, the rebuild list, the rebuild protocol and the defect register. Pairs with Craft 1.1.
   
