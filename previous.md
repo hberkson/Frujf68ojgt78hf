@@ -293,3 +293,112 @@ FAILS: milky or bright-white texture, cum arriving early, mouth full before the 
 9. FAILURE TRIAGE
 
 Work down the list. Stop at th
+
+  1. Strip beats. Fewer actions per clip.
+  2. Garbled or clipped speech. Lengthen the spoken beat to the 6.1 floor before stripping the line; strip the line only if the beat can't grow.
+  3. Remove camera movement. Static beats handheld.
+  4. Shorten. 30 - 20 - 15 - 10 - 5.
+  5. Drop resolution. 1080 - 720.
+  6. Rebuild the start frame. Most video failures are frame failures.
+  7. Change zone. If a pose fails three times, it is the pose.
+
+BALANCE CHECK: a failed job refunds. If the balance does not move, the job did not fail — it is still queued. A balance under about $1 will bounce video jobs; top up before starting.
+
+10. ASSEMBLY
+
+  Editor, not the model, does joins.
+  Bridge clips where chapters do not match — accept them as named inserts (18a) rather than reshooting.
+  Insert clips inside the chapter they belong to, trimmed, once.
+  Title cards: black ground, white text, 3-4 seconds, before the cut.
+  Name files sequentially before import.
+  Back up to cloud before touching the timeline.
+
+11. VERSION LOG
+
+  1.3 — #5 vulva slot added to 1A at two scales, 5b standing primary and 5a close-up supplement, with the framing, weight-period, grooming and incomplete-set rules; folds in the uncommitted 1.2; F-04, F-05, F-06 close. No other craft change.
+  1.2 — #5 vulva slot added to 1A. Never committed; carried whole into 1.3. [RECONSTRUCTED — baseline was never written to the store; wording set at 1.3, not verbatim.]
+  1.1 — reverts 1.0 engine inversion: 1A restored to the committed Wan 3.0 lane (fallback 2.7), exclusions named with reasons (Seedance, MiniMax, Grok ref), per-beat override widened to two triggers. §11 tail restored from the 1.0 truncation. No other change.
+  1.0 — first cut. Craft half of 6.12, split for paste size. Process content moved to PROCESS (sections §0A, the rebuild protocol, the old log). Rebuild-list procedure and pin rule now referenced from PROCESS. No craft change from 6.12. [RECONSTRUCTED — 1.0 log truncated in transit at "Rebuild-lis"; wording inferred, not verbatim.]
+
+---
+
+PROCESS — 1.3
+The operational half. Pairs with CRAFT 1.3. Nothing here generates anything — it is the checklist, the rebuild list and the pin rule.
+
+PAIRED WITH: CRAFT 1.3. Matching version. Neither half runs without the other present.
+
+0. PRE-FLIGHT — run before the first chapter of any project
+
+Read CRAFT 1A. The reference set is mandatory and the gate is strict; a soft #1 is reshot, not used. All five slots exist, #5 included.
+
+Performer intake complete in CRAFT 2 — every field, no blanks, grooming stated and matching #5.
+
+Engine confirmed against CRAFT 1A — the lane is Wan 3.0 (fallback 2.7). If an override to an excluded engine is planned, it is logged in the rebuild list before the chapter, not after.
+
+Zone chosen from CRAFT 7 and the zone's fails read first.
+
+Start frame built from the original reference set, both bodies present where the zone needs both.
+
+Money shot config chosen and the empty-mouth / pre-cum bead checked in the start frame if the chapter ends on a load.
+
+Line budget respected — beats minus one, no line over 6 words except the reveal.
+
+0A. THE PIN RULE
+
+A version is pinned by pasting it whole into the chat and confirming both halves are present at matching version. The pin is the pasted copy, not a file name and not a URL.
+
+A pinned version does not move. A new version is a new pin; the old one is superseded, not edited.
+
+Diff runs on every pin change: the outgoing version against the incoming, reporting dropped, replaced, orphaned, broke-by-reference, garbled, relocated, notation, and anything missed. Nothing is accepted until the diff is clean and the findings are numbered.
+
+A pair-pin rule applies: neither half is pinned alone. Craft and Process pin together or not at all, at matching version.
+
+If a version is sourced from a URL rather than a paste, the URL is read-through and mutable — fetch it, quote the version string and hash at the top of the file, compare to the pin, and report a mismatch before use. A fixed filename is mutable; the header inside the file is the identity.
+
+WRITE PATH. Paste is the write path — no automated write exists, and no in-chat page has landed one. Write in blocks short enough to survive copy, each ending on a checkable line.
+
+VERIFY LANDED. Fetch the raw file and confirm version and hash before the next job. Never brief the next version on an unverified baseline.
+
+THE REGISTER IS A STORE FILE (register.md). Quote finding numbers only from it, never from memory or a chat.
+
+FILE EXTENSION. Store files may carry .md or .mf. Try both. A 404 on one extension is not a missing file. The header inside the file is the identity.
+
+1. THE REBUILD LIST
+
+The assistant maintains it. The user does not. It is the running record of every chapter built, what it was built from, and what it is waiting on.
+
+Each chapter gets a line at creation. The line carries: chapter number, zone, engine used, whether the frame came from the set or a last-frame chain, and status — draft, rebuilt, or blocked.
+
+A chapter built on an overridden engine gets the override recorded on its line with the reason and which trigger (CRAFT 1A) was used.
+
+A chapter built on a superseded reference set gets flagged and re-checked, not assumed — see RETROACTIVITY in CRAFT 1A.
+
+The list is the source of truth for what still needs a 1080 pass. A chapter not on the list is not tracked and is treated as unbuilt.
+
+2. THE REBUILD PROTOCOL
+
+Draft at 720p. Rebuild at 1080p only from a rebuilt frame set — the start frame regenerated from the original references, not from the 720p output.
+
+On a 1080 pass, the dropped 720p line is reinstated WITH its 6.1 floor: the line returns and the beat grows to hold it.
+
+Every 1080 pass carries a per-chapter face check against the current set. A pass that fails the face check is rebuilt; one that passes is left alone.
+
+Never rebuild a whole series because one chapter failed. Rebuild the chapter.
+
+3. DEFECT REGISTER
+
+Numbered findings, not prose. Each carries: ID, version, section, what is wrong, status. Open findings ride to the next version or are closed with a fix.
+
+Known failure classes to watch for on every read:
+- A rule that contradicts another rule.
+- A cross-reference that does not resolve.
+- A reinstated 1080 line re-clipped because the floor was dropped with it.
+- A gate applied to the wrong thing (e.g. a reference-sharpness test applied to a rendered chapter).
+- A record marked reconstructed and later quoted as verbatim.
+- A reference slot added to 1A and left out of the intake, the pre-flight or the prompt rules.
+
+4. VERSION LOG
+
+  1.3 — 0A gains the write-path and verify-landed rules. Closes F-04, F-05, F-06. 0 pre-flight requires all five slots and a stated grooming line. No other change.
+  1.2 — Process half of the #5 addition; no Process change of its own. Never committed, carried into 1.3.
+  1.1 — first Process cut. Carries pre-flight, the pin rule, the rebuild list, the rebuild protocol and the defect register. Pairs with Craft 1.1.
