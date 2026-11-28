@@ -285,6 +285,7 @@ Camera above her at the bed edge, her legs up. Male face cropped.
   Fails: chimera from solo start frames, second head, her legs dropping below the frame line, his chest and shoulders cropped out.
   Holds: both bodies present in the start frame, her legs up and in frame.
   Build the start frame with both bodies — never from a solo frame.
+  
 7.4 COWGIRL, LOW CAMERA
 Camera below her looking up. She rides upright, hands planted either side. Breast bounce is the point.
   Fails: her sliding forward out of the low frame, hands leaving the mattress, bounce freezing, her head cropped by the low angle.
